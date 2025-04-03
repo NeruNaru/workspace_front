@@ -66,4 +66,4 @@ tbody>tr:hover{background-color: #edd3ed;}
 .table-speed::after{content: "(MB/초)";}
 
 /*특수 스타일*/
-ul li{list-style-type: square;}
+ul li{list-style-type: square;} 
